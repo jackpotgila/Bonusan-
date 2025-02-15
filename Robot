@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://jackpotgila.github.io/Bonusan-/sitemaps.xml
